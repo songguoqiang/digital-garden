@@ -1,0 +1,1 @@
+[RemNote](https://www.remnote.io/homepage) is the first [[Spaced Repetition]] powered note-taking tool

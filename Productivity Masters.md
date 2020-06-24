@@ -1,0 +1,5 @@
+- [[Ali Abdaal]]
+- [[Thomas Frank]]
+- [[Tiago Forte]]
+- [[Kourosh Dini]]
+- [[Shu Omi]]

@@ -1,0 +1,105 @@
+{
+  "theme": "moonstone",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Daily notes": true,
+    "Custom CSS": true,
+    "Tag pane": true
+  },
+  "workspaceLayout": {
+    "id": "41d009a27511397b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba38d393525dd914",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Roam Research.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "a86a761e480a4042",
+    "type": "split",
+    "children": [
+      {
+        "id": "a768901db9acef9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c69fea92837c01e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ab15fe721d0ed0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "e93f52d0a7c67853",
+    "type": "split",
+    "children": [
+      {
+        "id": "8785f4393fc6f8e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd7049d629609dd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "57639c11bf20bdda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Roam Research.md",
+    "Personal Knowledge Mangagement.md",
+    "How to Take Smart Notes.md",
+    "Digital Garden.md",
+    "Notion.md"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
